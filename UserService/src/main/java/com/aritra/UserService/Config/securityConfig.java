@@ -20,7 +20,7 @@ import jakarta.servlet.http.HttpServletRequest;
 @EnableWebSecurity
 public class securityConfig {
 
-    @Beangit
+    @Bean
     public SecurityFilterChain securityConfirguration(HttpSecurity http) throws Exception {
 
         http.sessionManagement()
