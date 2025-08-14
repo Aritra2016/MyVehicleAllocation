@@ -1,4 +1,4 @@
-<h1> User Service – Vehicle Allocation Microservice </h1>h1>
+<h1> User Service – Vehicle Allocation Microservice </h1>
 📌 Overview
 The User Service is a Spring Boot microservice in the Vehicle Allocation System designed to handle user authentication, authorization, and profile management.
 It uses JWT (JSON Web Tokens) for stateless authentication, Spring Security for role-based access control, and integrates with user-related data (roles, countries, and eligibility).
